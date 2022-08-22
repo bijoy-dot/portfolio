@@ -1,3 +1,41 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+span{
+    color: red;
+    font-weight: bold;
+}
+.firstcolumn{
+    width: 40%;
+    float: left;
+    padding: 10px;
+    margin-left: 3em;
+}
+a button{
+    background-color: red; 
+    color: aliceblue;
+}
+a:hover button{
+    background-color: green;
+}
+
+.firstcolumn img{
+    width: 80%;
+    margin-left: 40px;
+}
+/* .w{
+    background-image: url(img/developer-portfolio/top-banner.png);
+    background-repeat: no-repeat;  
+} */
+/* section{
+    height: 500px;
+} */
+.btn{
+    background-image: linear-gradient(45deg, lightsalmon,tomato);
+
+    text-decoration: none;
+    padding: 1px 15px 1px 15px;
+    border-radius: 5px;
+    font-weight: 300;
+    color: white;
+}
